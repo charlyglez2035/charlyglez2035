@@ -1,14 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T15:27:49.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="kvc99ltL-SAc2PRF9IZK" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T15:31:26.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="9ddM9t-ADvkNY-D9tVwB" version="23.0.2" type="github">
   <diagram name="Página-1" id="3X6JfUOSzoIKd2hp5Chq">
     <mxGraphModel dx="1034" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2ZVqeTXEcbyW0Spoo8fK-1" value="&lt;p style=&quot;text-align: center ; margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Empleados&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;u&gt;ClavePrimaria&lt;/u&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Atributo&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;gradientDirection=south;rounded=1;shadow=1;sketch=0;glass=0;strokeColor=#000000;fillColor=#a5c4e3;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="80" y="90" width="160" height="80" as="geometry" />
+          <mxGeometry x="20" y="100" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2ZVqeTXEcbyW0Spoo8fK-2" value="&lt;p style=&quot;text-align: center ; margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;u&gt;ClavePrimaria&lt;/u&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Atributo&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;gradientDirection=south;rounded=1;shadow=1;sketch=0;glass=0;strokeColor=#000000;fillColor=#a5c4e3;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="590" y="100" width="160" height="80" as="geometry" />
+          <mxGeometry x="600" y="140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZVqeTXEcbyW0Spoo8fK-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2ZVqeTXEcbyW0Spoo8fK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="100" as="sourcePoint" />
+            <mxPoint x="450" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ZVqeTXEcbyW0Spoo8fK-4" value="Momento del dia" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;fillColor=#ffffff;gradientColor=#ffffff;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="630" y="50" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZVqeTXEcbyW0Spoo8fK-5" value="&lt;p style=&quot;text-align: center ; margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Platos&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;u&gt;ClavePrimaria&lt;/u&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Atributo&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;gradientDirection=south;rounded=1;shadow=1;sketch=0;glass=0;strokeColor=#000000;fillColor=#a5c4e3;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZVqeTXEcbyW0Spoo8fK-6" value="&lt;p style=&quot;text-align: center ; margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Clientes&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;u&gt;ClavePrimaria&lt;/u&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Atributo&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;gradientDirection=south;rounded=1;shadow=1;sketch=0;glass=0;strokeColor=#000000;fillColor=#a5c4e3;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZVqeTXEcbyW0Spoo8fK-7" value="&lt;p style=&quot;text-align: center ; margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Pedidos&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;u&gt;ClavePrimaria&lt;/u&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Atributo&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;gradientDirection=south;rounded=1;shadow=1;sketch=0;glass=0;strokeColor=#000000;fillColor=#a5c4e3;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="610" y="430" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZVqeTXEcbyW0Spoo8fK-8" value="&lt;p style=&quot;text-align: center ; margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Sucursal&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;u&gt;ClavePrimaria&lt;/u&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Atributo&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;gradientDirection=south;rounded=1;shadow=1;sketch=0;glass=0;strokeColor=#000000;fillColor=#a5c4e3;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
