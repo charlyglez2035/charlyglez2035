@@ -1,5 +1,8 @@
 
 Soy Carlos Rodrigo Gómez González, pero todos me dicen Charly. Estoy en 7mo semestre de ITC. Me interesa mucho todo lo relacionado con Cloud Computing, y uno de mis grandes sueños es hacer un intercambio a Japón durante la carrera. Estudiar ITC para mí es una forma de construir el futuro y dejar huella con lo que sé hacer. Fuera de clases, me encanta tocar la guitarra y jugar videojuegos, que son dos cosas que me relajan y me inspiran.
+
+My name is Carlos Rodrigo Gómez González, but everyone calls me Charly. I’m in my seventh semester of ITC. I’m very interested in everything related to cloud computing, and one of my biggest dreams is to study abroad in Japan during my degree. For me, studying ITC is a way to help shape the future and make a lasting impact through what I do. Outside of class, I love playing guitar and video games—two things that help me relax and inspire me.
+
 <!---
 charlyglez2035/charlyglez2035 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
